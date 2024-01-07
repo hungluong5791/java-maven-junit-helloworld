@@ -1,6 +1,6 @@
 # A Java/Maven/JUnit HelloWorld example
 
-1111
+111111
 
 A „Hello World!” sample written in Java using Maven for the build, that showcases a few very simple tests.
 
