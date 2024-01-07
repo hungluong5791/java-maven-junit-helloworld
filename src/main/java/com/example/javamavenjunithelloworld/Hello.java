@@ -27,6 +27,7 @@ public class Hello {
             ));
         }
         String test = null;
+        String test1 = "hello";
         this.times = times;
     }
 
