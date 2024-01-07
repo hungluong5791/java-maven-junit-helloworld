@@ -26,6 +26,7 @@ public class Hello {
                     MAXIMUM_AMOUNT_OF_TIMES
             ));
         }
+        String test = null;
         this.times = times;
     }
 
